@@ -1,0 +1,2 @@
+# Dicion-rio-tecnologico
+Dicionário
